@@ -1051,6 +1051,10 @@
     animation: .3s ease-in-out fadeIn;
   }
 
+  .animate-ping {
+    animation: var(--animate-ping);
+  }
+
   .flex-col {
     flex-direction: column;
   }
