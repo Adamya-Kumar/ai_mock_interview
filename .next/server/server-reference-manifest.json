@@ -2,12 +2,8 @@
   "node": {
     "0037cae789105f2ec147039553ecbc0458faef2259": {
       "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true
-        },
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/(root)/interview/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/interview/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true
         },
         "app/(root)/page": {
@@ -16,19 +12,14 @@
         }
       },
       "layer": {
-        "app/(auth)/sign-in/page": "rsc",
-        "app/(auth)/sign-up/page": "rsc",
+        "app/(root)/interview/page": "rsc",
         "app/(root)/page": "rsc"
       }
     },
     "004fc4e3706d96ec5c6101813dd27c50ef952b992b": {
       "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true
-        },
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/(root)/interview/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/interview/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true
         },
         "app/(root)/page": {
@@ -37,19 +28,14 @@
         }
       },
       "layer": {
-        "app/(auth)/sign-in/page": "rsc",
-        "app/(auth)/sign-up/page": "rsc",
+        "app/(root)/interview/page": "rsc",
         "app/(root)/page": "rsc"
       }
     },
     "409a3b77f454bf1d9be6631a8109b1406b5cd2e3d2": {
       "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true
-        },
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/(root)/interview/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/interview/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true
         },
         "app/(root)/page": {
@@ -58,19 +44,14 @@
         }
       },
       "layer": {
-        "app/(auth)/sign-in/page": "action-browser",
-        "app/(auth)/sign-up/page": "action-browser",
+        "app/(root)/interview/page": "rsc",
         "app/(root)/page": "rsc"
       }
     },
     "40d024a5419461a77d33a34a5f58f5ac08c0e93e06": {
       "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true
-        },
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/(root)/interview/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/interview/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true
         },
         "app/(root)/page": {
@@ -79,19 +60,14 @@
         }
       },
       "layer": {
-        "app/(auth)/sign-in/page": "rsc",
-        "app/(auth)/sign-up/page": "rsc",
+        "app/(root)/interview/page": "rsc",
         "app/(root)/page": "rsc"
       }
     },
     "40f0358909f326c2a0327541e14c539f6ce5adfa69": {
       "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true
-        },
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+        "app/(root)/interview/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/interview/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true
         },
         "app/(root)/page": {
@@ -100,8 +76,7 @@
         }
       },
       "layer": {
-        "app/(auth)/sign-in/page": "action-browser",
-        "app/(auth)/sign-up/page": "action-browser",
+        "app/(root)/interview/page": "rsc",
         "app/(root)/page": "rsc"
       }
     }
